@@ -11,6 +11,8 @@ flask run
 ```
 Detail:  Flask App running on http://127.0.0.1:5000 / Or on your metioned PORT No
 
+![image](https://user-images.githubusercontent.com/68546391/102019983-685c3d00-3d9c-11eb-9cd5-f3fece8957a3.png)
+
 
 
 
